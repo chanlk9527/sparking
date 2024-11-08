@@ -1774,14 +1774,20 @@ most ragged破烂的 blanket.
 佩妮姨妈在隔壁房间找到几条发霉的毯子，在虫蛀的沙发上为达力铺了张床。
 她和弗农姨父去了隔壁那张凹凸不平的床上，而哈利则只能在地板上找个最软和的地方，蜷缩在最薄最破的毯子下。
 
-The storm raged more and more ferociously as the night went on. Harry
-couldn't sleep. He shivered and turned over, trying to get comfortable,
-his stomach rumbling with hunger. Dudley's snores were drowned by the
+The storm raged肆虐 more and more ferociously as the night went on. Harry
+couldn't sleep. He shivered颤抖 and turned over, trying to get comfortable,
+his stomach rumbling发出隆隆声 with hunger. Dudley's snores鼾声 were drowned淹没 by the
 low rolls of thunder that started near midnight. The lighted dial of
-Dudley's watch, which was dangling over the edge of the sofa on his fat
+Dudley's watch, which was dangling悬在 over the edge of the sofa on his fat
 wrist, told Harry he'd be eleven in ten minutes' time. He lay and
 watched his birthday tick nearer, wondering if the Dursleys would
 remember at all, wondering where the letter writer was now.
+暴风雨随着夜幕的降临变得越来越猛烈。
+哈利无法入睡。他发抖着翻来覆去，试图找个舒服的姿势，肚子因饥饿而咕咕作响。
+达力的鼾声被午夜时分开始的低沉雷声所淹没。
+达力手表上发光的表盘悬在沙发边上他肥胖的手腕上，告诉哈利再过十分钟他就满十一岁了。
+他躺在那里看着自己的生日一分一秒地临近，
+想知道德思礼一家是否会记得这件事，也在想写信的人现在在哪里。
 
 Five minutes to go. Harry heard something creak outside. He hoped the
 roof wasn't going to fall in, although he might be warmer if it did.
@@ -1817,7 +1823,7 @@ in the long, thin package he had brought with them.
 
 There was a pause. Then --
 
-SMASH!
+SMASH【to cause something to break noisily into a lot of small pieces】!
 
 The door was hit with such force that it swung clean off its hinges and
 with a deafening crash landed flat on the floor.
@@ -1835,29 +1841,29 @@ little. He turned to look at them all.
 "Couldn't make us a cup o' tea, could yeh? It's not been an easy
 journey..."
 
-He strode over to the sofa where Dudley sat frozen with fear.
+He strode阔步行进 over to the sofa where Dudley sat frozen with fear.
 
-"Budge up, yeh great lump," said the stranger.
+"Budge up挪一挪, yeh great lump,大块头" said the stranger.
 
 Dudley squeaked and ran to hide behind his mother, who was crouching,
 terrified, behind Uncle Vernon.
 
 "An' here's Harry!" said the giant.
 
-Harry looked up into the fierce, wild, shadowy face and saw that the
+Harry looked up into the fierce凶猛的, wild, shadowy face and saw that the
 beetle eyes were crinkled in a smile.
 
 "Las' time I saw you, you was only a baby," said the giant. "Yeh look a
 lot like yet dad, but yeh've got yet mom's eyes."
 
-Uncle Vernon made a funny rasping noise.
+Uncle Vernon made a funny rasping刺耳 noise.
 
 I demand that you leave at once, sit!" he said. "You are breaking and
 entering!"
 
 "Ah, shut up, Dursley, yeh great prune," said the giant; he reached over
 the back of the sofa, jerked the gun out of Uncle Vernon's hands, bent
-it into a knot as easily as if it had been made of rubber, and threw it
+it into a knot绳结 as easily as if it had been made of rubber橡胶, and threw it
 into a corner of the room.
 
 Uncle Vernon made another funny noise, like a mouse being trodden on.
@@ -1875,35 +1881,43 @@ Harry looked up at the giant. He meant to say thank you, but the words
 got lost on the way to his mouth, and what he said instead was, "Who are
 you?"
 
-The giant chuckled.
+The giant chuckled轻声地笑.
 
 "True, I haven't introduced meself. Rubeus Hagrid, Keeper of Keys and
 Grounds at Hogwarts."
 
-He held out an enormous hand and shook Harry's whole arm.
+He held out an enormous巨大的 hand and shook Harry's whole arm.
 
-"What about that tea then, eh?" he said, rubbing his hands together.
-"I'd not say no ter summat stronger if yeh've got it, mind."
+"What about that tea then, eh?" he said, rubbing his hands together搓手.
+"I'd not say no ter summat[something] stronger if yeh've got it, mind."
 
-His eyes fell on the empty grate with the shriveled chip bags in it and
-he snorted. He bent down over the fireplace; they couldn't see what he
-was doing but when he drew back a second later, there was a roaring fire
-there. It filled the whole damp hut with flickering light and Harry felt
-the warmth wash over him as though he'd sunk into a hot bath.
+His eyes fell on the empty grate壁炉的金属栅格 with the shriveled干瘪的 chip bags in it and
+he snorted哼声，表示不满或轻蔑. He bent down over the fireplace壁炉; they couldn't see what he
+was doing but when he drew back 往后退 a second later, there was a roaring fire熊熊燃烧的火
+there. It filled the whole damp潮湿的 hut小屋 with flickering 闪烁的 light and Harry felt
+the warmth wash over 扑面而来 him as though he'd sunk into a hot bath.
 
-The giant sat back down on the sofa, which sagged under his weight, and
+The giant sat back down on the sofa, which sagged下陷 under his weight, and
 began taking all sorts of things out of the pockets of his coat: a
-copper kettle, a squashy package of sausages, a poker, a teapot, several
-chipped mugs, and a bottle of some amber liquid that he took a swig from
+copper铜制的 kettle, a squashy软塌塌的 package of sausages, a poker, a teapot, several
+chipped有缺口的 mugs, and a bottle of some amber琥珀色的 liquid that he took a swig from
 before starting to make tea. Soon the hut was full of the sound and
-smell of sizzling sausage. Nobody said a thing while the giant was
-working, but as he slid the first six fat, juicy, slightly burnt
-sausages from the poker, Dudley fidgeted a little. Uncle Vernon said
+smell of sizzling煎炸发出嘶嘶声 sausage. Nobody said a thing while the giant was
+working, but as he slid滑落 the first six fat, juicy, slightly burnt
+sausages from the poker, Dudley fidgeted坐立不安 a little. Uncle Vernon said
 sharply, "Don't touch anything he gives you, Dudley."
+巨人重新坐回沙发上，沙发在他的重量下往下陷。
+他开始从他的外套口袋里掏出各种东西：
+一个铜水壶、一包软塌塌的香肠、一根拨火棍、一个茶壶、几个有缺口的杯子，
+还有一瓶琥珀色的液体，他喝了一口后就开始泡茶。
+很快，小屋里充满了香肠煎炸的声音和气味。
+当巨人在忙活时，没有人说话，
+但当他用拨火棍串着的第一批六根肥大多汁、略微烤焦的香肠滑下来时，
+达力稍微动了动。弗农姨父厉声说道："达力，别碰他给你的任何东西。"
 
 The giant chuckled darkly.
 
-"Yet great puddin' of a son don' need fattenin' anymore, Dursley, don'
+"Yet great puddin'[pudding 胖子] of a son don' need fattenin'[fattening 变得更胖] anymore, Dursley, don'
 worry."
 
 He passed the sausages to Harry, who was so hungry he had never tasted
@@ -1911,7 +1925,7 @@ anything so wonderful, but he still couldn't take his eyes off the
 giant. Finally, as nobody seemed about to explain anything, he said,
 "I'm sorry, but I still don't really know who you are."
 
-The giant took a gulp of tea and wiped his mouth with the back of his
+The giant took a gulp一大口 of tea and wiped擦 his mouth with the back of his
 hand.
 
 "Call me Hagrid," he said, "everyone does. An' like I told yeh, I'm
@@ -1923,7 +1937,7 @@ Hagrid looked shocked.
 
 "Sorry," Harry said quickly.
 
-"Sony?" barked Hagrid, turning to stare at the Dursleys, who shrank back
+"Sony?" barked Hagrid, turning to stare at the Dursleys, who shrank back缩回
 into the shadows. "It' s them as should be sorry! I knew yeh weren't
 gettin' yer letters but I never thought yeh wouldn't even know abou'
 Hogwarts, fer cryin' out loud! Did yeh never wonder where yet parents
@@ -1931,16 +1945,16 @@ learned it all?"
 
 "All what?" asked Harry.
 
-"ALL WHAT?" Hagrid thundered. "Now wait jus' one second!"
+"ALL WHAT?" Hagrid thundered像雷鸣一样响亮. "Now wait jus' one second!"
 
-He had leapt to his feet. In his anger he seemed to fill the whole hut.
-The Dursleys were cowering against the wall.
+He had leapt跳跃 to his feet. In his anger he seemed to fill the whole hut.
+The Dursleys were cowering畏缩 against the wall.
 
-"Do you mean ter tell me," he growled at the Dursleys, "that this boy --
+"Do you mean ter tell me," he growled at动物低吼一样充满威胁 the Dursleys, "that this boy --
 this boy! -- knows nothin' abou' -- about ANYTHING?"
 
 Harry thought this was going a bit far. He had been to school, after
-all, and his marks weren't bad.
+all毕竟, and his marks分数 weren't bad.
 
 "I know some things," he said. "I can, you know, do math and stuff." But
 Hagrid simply waved his hand and said, "About our world, I mean. Your
@@ -1950,9 +1964,9 @@ world. My world. Yer parents' world."
 
 Hagrid looked as if he was about to explode.
 
-"DURSLEY!" he boomed.
+"DURSLEY!" he boomed大声喊叫.
 
-Uncle Vernon, who had gone very pale, whispered something that sounded
+Uncle Vernon, who had gone very pale苍白, whispered something that sounded
 like "Mimblewimble." Hagrid stared wildly at Harry.
 
 "But yeh must know about yet mom and dad," he said. "I mean, they're
@@ -1961,18 +1975,18 @@ famous. You're famous."
 "What? My -- my mom and dad weren't famous, were they?"
 
 "Yeh don' know... yeh don' know..." Hagrid ran his fingers through his
-hair, fixing Harry with a bewildered stare.
+hair, fixing Harry with a bewildered困惑的 stare.
 
 "Yeh don' know what yeh are?" he said finally.
 
-Uncle Vernon suddenly found his voice.
+Uncle Vernon suddenly found his voice"开始说话"(通常是在震惊或害怕之后).
 
 "Stop!" he commanded. "Stop right there, sit! I forbid you to tell the
 boy anything!"
 
-A braver man than Vernon Dursley would have quailed under the furious
-look Hagrid now gave him; when Hagrid spoke, his every syllable trembled
-with rage.
+A braver man than Vernon Dursley would have quailed畏缩 under the furious狂怒的
+look Hagrid now gave him; when Hagrid spoke, his every syllable音节 trembled
+with rage因愤怒而颤抖.
 
 "You never told him? Never told him what was in the letter Dumbledore
 left fer him? I was there! I saw Dumbledore leave it, Dursley! An'
@@ -1998,7 +2012,7 @@ yeh've been trained up a bit. With a mum an' dad like yours, what else
 would yeh be? An' I reckon it's abou' time yeh read yer letter."
 
 Harry stretched out his hand at last to take the yellowish envelope,
-addressed in emerald green to Mr. H. Potter, The Floor, Hut-on-the-Rock,
+addressed in emerald绿宝石色的 green to Mr. H. Potter, The Floor, Hut-on-the-Rock,
 The Sea. He pulled out the letter and read:
 
 HOGWARTS SCHOOL of WITCHCRAFT and WIZARDRY
@@ -2163,22 +2177,39 @@ work on you, an' that's why yer famous, Harry. No one ever lived after
 he decided ter kill 'em, no one except you, an' he'd killed some o' the
 best witches an' wizards of the age -- the McKinnons, the Bones, the
 Prewetts -- an' you was only a baby, an' you lived."
+"神秘人杀了他们。然后——这就是事情真正的谜团所在——他还试图杀你。"
+"我猜他想把事情做得干净利落，或者到那时他可能只是喜欢杀戮。"
+"但他做不到。你从未想过你额头上的那个印记是怎么来的吗？那可不是普通的伤疤。"
+"那是当一个强大的邪恶咒语触及你时留下的——它杀死了你的父母，甚至摧毁了你的房子——但它对你不起作用，这就是为什么你出名的原因，哈利。"
+"当他决定杀某人时，从来没有人能活下来，除了你，
+而他已经杀死了那个时代一些最优秀的巫师——麦金农一家、博恩斯一家、普威特一家——而你当时只是个婴儿，你却活了下来。"
+
 
 Something very painful was going on in Harry's mind. As Hagrid's story
 came to a close, he saw again the blinding flash of green light, more
 clearly than he had ever remembered it before -- and he remembered
 something else, for the first time in his life: a high, cold, cruel
 laugh.
+"哈利的脑海中正在经历着非常痛苦的事情。
+当海格的故事接近尾声时，他再次看到了那道刺眼的绿光，
+比他以前任何时候记得都要清晰——而且他第一次记起了另一件事：一个尖锐、冰冷、残忍的笑声。"
 
 Hagrid was watching him sadly.
 
 "Took yeh from the ruined house myself, on Dumbledore's orders. Brought
 yeh ter this lot..."
 
-"Load of old tosh," said Uncle Vernon. Harry jumped; he had almost
+"Load of old tosh胡说," said Uncle Vernon. Harry jumped; he had almost
 forgotten that the Dursleys were there. Uncle Vernon certainly seemed to
 have got back his courage. He was glaring at Hagrid and his fists were
 clenched.
+"胡说八道，"弗农姨父说。哈利吓了一跳；他几乎忘记了德思礼一家还在那里。
+弗农姨父似乎肯定恢复了勇气。他怒视着海格,双拳紧握。
+Load of old tosh: 英式俚语,意为"胡说八道"或"废话"
+Jump: 在这里不是字面意义的跳跃,而是表示"吓了一跳"
+Get back one's courage: 恢复勇气
+Glare at: 怒视
+Clench: 紧握,握紧
 
 "Now, you listen here, boy," he snarled, "I accept there's something
 strange about you, probably nothing a good beating wouldn't have cured
@@ -2186,38 +2217,74 @@ strange about you, probably nothing a good beating wouldn't have cured
 denying it, and the world's better off without them in my opinion --
 asked for all they got, getting mixed up with these wizarding types --
 just what I expected, always knew they'd come to a sticky end --"
+"现在,你听好了,小子,"他咆哮道,"我承认你有些古怪,可能一顿好打就能治好
+ -- 至于你父母的事,嗯,他们就是怪人,这点无可否认,我认为没有他们世界会更好
+ -- 他们自作自受,跟那些巫师类型的人搅在一起
+ -- 正是我所料到的,我一直知道他们会落得悲惨的下场 --"
 
 But at that moment, Hagrid leapt from the sofa and drew a battered pink
 umbrella from inside his coat. Pointing this at Uncle Vernon like a
 sword, he said, "I'm warning you, Dursley -I'm warning you -- one more
 word... "
+但就在那时,海格从沙发上跳了起来,
+从他的外套里掏出一把破旧的粉色雨伞。
+他像握剑一样指着弗农姨父,
+说道:"我警告你,德思礼 -- 我警告你 -- 再说一个字..."
 
 In danger of being speared on the end of an umbrella by a bearded giant,
 Uncle Vernon's courage failed again; he flattened himself against the
 wall and fell silent.
+处于被一个大胡子巨人用雨伞尖刺穿的危险中，
+弗农姨父的勇气再次消失了；他把自己贴在墙上，沉默不语。
+speared: 刺穿，这里用来形容被雨伞刺穿的危险
+flattened himself: 把自己压平，表示紧贴着墙壁
 
 "That's better," said Hagrid, breathing heavily and sitting back down on
 the sofa, which this time sagged right down to the floor.
+"这就对了，"海格说道，他呼吸沉重，坐回到沙发上，这次沙发直接塌到了地板上。
 
 Harry, meanwhile, still had questions to ask, hundreds of them.
+与此同时，哈利还有很多问题要问，成百上千的问题。
 
 "But what happened to Vol--, sorry -- I mean, You-Know-Who?"
+"但是伏地..."对不起，我是说，那个不能说名字的人怎么样了？"
 
 "Good question, Harry. Disappeared. Vanished. Same night he tried ter
 kill you. Makes yeh even more famous. That's the biggest myst'ry, see...
 he was gettin' more an' more powerful -- why'd he go?
+"好问题，哈利。消失了。不见了。
+就在他试图杀你的那个晚上。这让你更加出名了。
+这就是最大的谜团，你看...他变得越来越强大 -- 为什么他会离开呢？
 
 "Some say he died. Codswallop, in my opinion. Dunno if he had enough
 human left in him to die. Some say he's still out there, bidin' his
 time, like, but I don' believe it. People who was on his side came back
 ter ours. Some of 'em came outta kinda trances. Don~ reckon they
 could've done if he was comin' back.
+"有人说他死了。我认为这是胡说八道。不知道他体内是否还有足够的人来让他死去。
+有人说他还在外面，像是在等待时机，但我不相信。
+曾经站在他那边的人回到了我们这边。
+他们中的一些人好像是从某种恍惚状态中清醒过来。
+我觉得如果他要回来的话，他们是不可能这样的。
+Codswallop: 胡说八道（俚语）
+Dunno: Don't know的口语表达
+bidin' his time: biding his time，等待时机
+outta: out of的口语表达
+trances: 恍惚状态
+Don~: Don't的口语表达
+reckon: 认为，觉得
 
 "Most of us reckon he's still out there somewhere but lost his powers.
 Too weak to carry on. 'Cause somethin' about you finished him, Harry.
 There was somethin' goin' on that night he hadn't counted on -- I dunno
 what it was, no one does -- but somethin' about you stumped him, all
 right."
+我们大多数人认为他还在某处,但失去了法力。
+太虚弱以至于无法继续。因为你身上有什么东西击败了他,哈利。
+那天晚上发生了他没有预料到的事情 -- 我不知道是什么,没人知道 -- 但你身上的某些东西确实让他束手无策。
+reckon: 认为,估计
+carry on: 继续,坚持
+stump: 使困惑,使为难
 
 Hagrid looked at Harry with warmth and respect blazing in his eyes, but
 Harry, instead of feeling pleased and proud, felt quite sure there had
@@ -2227,14 +2294,32 @@ Uncle Vernon; if he was really a wizard, why hadn't they been turned
 into warty toads every time they'd tried to lock him in his cupboard? If
 he'd once defeated the greatest sorcerer in the world, how come Dudley
 had always been able to kick him around like a football?
+海格看着哈利,眼中闪烁着温暖和尊敬,但哈利非但没有感到高兴和自豪,反而确信一定是搞错了。
+一个巫师?他?他怎么可能是巫师呢?他一生都被达力殴打,被佩妮姨妈和弗农姨父欺负;
+如果他真的是个巫师,为什么每次他们试图把他锁在碗柜里时,他们都没有变成长满疣的蟾蜍呢?
+如果他曾经打败了世界上最伟大的巫师,为什么达力总是能像踢足球一样踢他?
+blaze: 闪耀,燃烧
+clout: 猛击,打,影响力
+warty: 长满疣的
+toads: 蟾蜍
+kick around: 随意对待,虐待
+句型语法解析:
+"He'd spent his life being clouted by Dudley, and bullied by Aunt Petunia and Uncle Vernon"
+这是一个复合句,使用了现在完成进行时(had spent ... being)来表示持续的经历。"being clouted"和"bullied"是并列的动名词短语,作为"spent"的宾语补足语。
+
+"If he'd once defeated the greatest sorcerer in the world, how come Dudley had always been able to kick him around like a football?"
+这是一个条件句,前半部分"If he'd once defeated..."是虚拟语气,表示对过去的假设。后半部分"how come..."是一个反问句,表达说话人的疑惑和不解。
 
 "Hagrid," he said quietly, "I think you must have made a mistake. I
 don't think I can be a wizard."
+"哈格力," 他轻声说道, "我想你一定弄错了。我不认为我能成为一个巫师。"
 
 To his surprise, Hagrid chuckled.
+令他惊讶的是,哈格力咯咯地笑了。
 
 "Not a wizard, eh? Never made things happen when you was scared or
 angry?"
+"不是巫师,是吗?当你害怕或生气的时候,从未让事情发生过吗?"
 
 Harry looked into the fire. Now he came to think about it... every odd
 thing that had ever made his aunt and uncle furious with him had
@@ -2244,18 +2329,37 @@ to school with that ridiculous haircut, he'd managed to make it grow
 back... and the very last time Dudley had hit him, hadn't he got his
 revenge, without even realizing he was doing it? Hadn't he set a boa
 constrictor on him?
+哈利看着火堆。现在他仔细想来...每一件曾经惹得姨妈和姨父大发雷霆的奇怪事情,
+都是在他,哈利,沮丧或愤怒的时候发生的...
+被达力的帮派追赶时,他莫名其妙地发现自己脱离了他们的控制...
+害怕带着那可笑的发型去上学,他设法让头发长了回来...
+还有最后一次达力打他的时候,他不是在不知不觉中报了仇吗?
+他不是放出了一条蟒蛇来对付达力吗?
+重点词汇、短语解析:
+odd: 奇怪的,不寻常的
+furious: 狂怒的,暴怒的
+out of their reach: 超出他们的控制范围
+dread: 担心,害怕
+ridiculous: 荒谬的,可笑的
+boa constrictor: 蟒蛇
 
 Harry looked back at Hagrid, smiling, and saw that Hagrid was positively
 beaming at him.
+哈利微笑着回头看向哈格力,发现哈格力正满面笑容地看着他。
 
 "See?" said Hagrid. "Harry Potter, not a wizard -- you wait, you'll be
 right famous at Hogwarts."
+"看到了吧?"哈格力说道。"哈利·波特,不是巫师 -- 等着瞧吧,你在霍格沃茨会大有名气的。"
 
 But Uncle Vernon wasn't going to give in without a fight.
+但弗农姨父并不打算轻易放弃。
 
 "Haven't I told you he's not going?" he hissed. "He's going to Stonewall
 High and he'll be grateful for it. I've read those letters and he needs
 all sorts of rubbish -- spell books and wands and --"
+"我不是告诉过你他不会去吗?"他嘶嘶地说道。
+"他要去石墙高中,而且他会为此感恩戴德的。
+我看过那些信,他需要各种垃圾玩意儿 -- 咒语书和魔杖什么的 --"
 
 "If he wants ter go, a great Muggle like you won't stop him," growled
 Hagrid. "Stop Lily an' James Potter' s son goin' ter Hogwarts! Yer mad.
@@ -2264,13 +2368,24 @@ school of witchcraft and wizardry in the world. Seven years there and he
 won't know himself. He'll be with youngsters of his own sort, fer a
 change, an' he'll be under the greatest headmaster Hogwarts ever had
 Albus Dumbled--"
+"如果他想去,像你这样的大麻瓜是阻止不了他的,"哈格力咆哮道。
+"阻止莉莉和詹姆·波特的儿子去霍格沃茨!你疯了。
+他的名字从出生就被登记了。
+他要去世界上最好的魔法学校。在那里待七年,他会脱胎换骨的。
+他终于可以和同类在一起了,而且他将在霍格沃茨有史以来最伟大的校长阿不思·邓布利多的领导下--"
 
 "I AM NOT PAYING FOR SOME CRACKPOT OLD FOOL To TEACH HIM MAGIC TRICKS!"
 yelled Uncle Vernon.
+"我才不会付钱让某个疯疯癫癫的老傻瓜教他变魔术!"弗农姨父大吼道。
+重点词汇、短语解析:
+crackpot: 怪人,疯子
+magic tricks: 魔术把戏
 
 But he had finally gone too far. Hagrid seized his umbrella and whirled
 it over his head, "NEVER," he thundered, "- INSULT- ALBUS- DUMBLEDORE-
 IN- FRONT- OF- ME!"
+但他这次真的太过分了。哈格力抓起他的雨伞,在头顶上挥舞着,
+"永远不要,"他雷霆般怒吼道,"- 在- 我- 面- 前- 侮- 辱- 阿不思·邓布利多!"
 
 He brought the umbrella swishing down through the air to point at Dudley
 -- there was a flash of violet light, a sound like a firecracker, a
@@ -2278,38 +2393,82 @@ sharp squeal, and the next second, Dudley was dancing on the spot with
 his hands clasped over his fat bottom, howling in pain. When he turned
 his back on them, Harry saw a curly pig's tail poking through a hole in
 his trousers.
+他把雨伞呼啸着挥向达力 -- 一道紫色的光闪过,
+伴随着像鞭炮一样的声音和一声尖叫,下一秒,
+达力就在原地跳起舞来,双手捂着他肥胖的屁股,痛苦地嚎叫着。
+当他转过身去时,哈利看到一个卷曲的猪尾巴从他裤子上的一个洞里戳了出来。
+重点词汇、短语解析:
+
+swish: 呼啸而过
+firecracker: 爆竹,鞭炮
+squeal: 尖叫
+clasp: 紧握,抱住
+howl: 嚎叫
+poke: 戳,刺
 
 Uncle Vernon roared. Pulling Aunt Petunia and Dudley into the other
 room, he cast one last terrified look at Hagrid and slammed the door
 behind them.
+弗农姨父咆哮起来。他拉着佩妮姨妈和达力进了另一个房间,最后恐惧地看了哈格力一眼,然后砰地一声关上了门。
+重点词汇、短语解析:
+
+roar: 咆哮,吼叫
+terrified: 惊恐的
+slam: 砰地关上
 
 Hagrid looked down at his umbrella and stroked his beard.
+哈格力低头看着他的雨伞,抚摸着他的胡子。
 
 "Shouldn'ta lost me temper," he said ruefully, "but it didn't work
 anyway. Meant ter turn him into a pig, but I suppose he was so much like
 a pig anyway there wasn't much left ter do."
+"我不该发脾气的,"他懊悔地说,"不过反正也没成功。本想把他变成猪的,但我猜他本来就那么像猪,也没什么可变的了。"
 
 He cast a sideways look at Harry under his bushy eyebrows.
+他从浓密的眉毛下斜眼看了看哈利。
 
 "Be grateful if yeh didn't mention that ter anyone at Hogwarts," he
 said. "I'm -- er -- not supposed ter do magic, strictly speakin'. I was
 allowed ter do a bit ter follow yeh an' get yer letters to yeh an' stuff
 -- one o' the reasons I was so keen ter take on the job
+"如果你能不在霍格沃茨向任何人提起这事,我会很感激的,"他说。
+"严格来说,我 -- 呃 -- 不应该使用魔法。
+我只被允许用一点魔法来跟踪你,把信送到你手上之类的
+-- 这也是我如此热衷于接受这项工作的原因之一。"
+
+suppose to: 应该
+strictly speaking: 严格来说
+keen: 热切的,渴望的
 
 "Why aren't you supposed to do magic?" asked Harry.
+"为什么你不被允许使用魔法?"哈利问道。
 
 "Oh, well -- I was at Hogwarts meself but I -- er -- got expelled, ter
 tell yeh the truth. In me third year. They snapped me wand in half an'
 everything. But Dumbledore let me stay on as gamekeeper. Great man,
 Dumbledore." "Why were you expelled?"
+"哦,这个 -- 我自己也在霍格沃茨上过学,但是我 -- 呃 -- 说实话,我被开除了。
+在我三年级的时候。他们把我的魔杖折断了,什么都没了。
+但邓布利多让我留下来当守林人。邓布利多是个伟大的人。"
+"你为什么被开除的?"
+expel: 开除
+snap: 折断
+gamekeeper: 守林人
 
 "It's gettin' late and we've got lots ter do tomorrow," said Hagrid
 loudly. "Gotta get up ter town, get all yer books an' that."
+"时间不早了,我们明天还有很多事要做,"哈格力大声说道。"得上城里去,买你所有的书什么的。"
 
 He took off his thick black coat and threw it to Harry.
+他脱下厚厚的黑色外套,扔给了哈利。
 
 "You can kip under that," he said. "Don' mind if it wriggles a bit, I
 think I still got a couple o' dormice in one o' the pockets."
+"你可以盖着这个睡,"他说。"别介意它动来动去的,我想口袋里还有几只睡鼠。"
+
+kip: (英国俚语)睡觉
+wriggle: 扭动,蠕动
+dormouse: 睡鼠
 
 
 CHAPTER FIVE
@@ -2334,9 +2493,9 @@ Tap. Tap. Tap.
 "All right," Harry mumbled, "I'm getting up."
 
 He sat up and Hagrid's heavy coat fell off him. The hut was full of
-sunlight, the storm was over, Hagrid himself was asleep on the collapsed
-sofa, and there was an owl rapping its claw on the window, a newspaper
-held in its beak.
+sunlight, the storm was over, Hagrid himself was asleep on the collapsed倒塌的
+sofa, and there was an owl rapping敲击 its claw on the window, a newspaper
+held in its beak鸟嘴.
 
 Harry scrambled to his feet, so happy he felt as though a large balloon
 was swelling inside him. He went straight to the window and jerked it
